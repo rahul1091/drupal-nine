@@ -1,0 +1,6 @@
+name: User Create
+type: module
+description: A custom module to create user
+package: Custom
+version: 1.1
+core_version_requirement: ^9 || ^10

@@ -1,0 +1,6 @@
+<?php
+
+use Drupal\Core\Mail\MailManagerInterface;
+use Drupal\Component\Utility\SafeMarkup;
+use Drupal\Component\Utility\Html;
+

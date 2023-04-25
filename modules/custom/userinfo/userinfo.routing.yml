@@ -1,0 +1,7 @@
+userinfo.form:
+ path: '/create-user'
+ defaults:
+  _title: 'Create User'
+  _form: '\Drupal\userinfo\Form\UserinfoForm'
+ requirements:
+  _permission: 'access content'
